@@ -1,0 +1,8 @@
+    Este estudo busca estimar e classificar como “baixo” ou “alto” o estado de ocupaçâo 
+de leitos para os casos da COVID-19, com um modelo matemático conhecido como HMM (Hidden Markov Models)
+ou Cadeias Ocultas de Markov, recolhendo dados de ocupação de leitos em todo o estado de Minas Gerais.
+    Ademais, com base nos resultados para HMMs obtidas,  ́e possível considerar uma teoria 
+de grandes desvios (Large Deviations Theory- LDT) para estimar a ocorrências de eventos raros. 
+Estes eventos podem ser, por exemplo, a explosão numérica de casos notificados ou a impossibilidade de acolher 
+novos doentes devido a alta ocupação de leitos hospitalares. O período utilizado para a investigação vai de 23/03/20
+até 15/11/21. Foram obtidas numericamente as funções que indicam a taxa com que os eventos raros decaem a zero.
